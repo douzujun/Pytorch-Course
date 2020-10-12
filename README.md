@@ -1,2 +1,2 @@
-# Pytorch_Course
+# Pytorch-Course
 Pytorch's mini project
